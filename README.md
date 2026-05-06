@@ -15,7 +15,6 @@ I am focused on projects at the intersection of **AI, education, accessibility, 
 - 🧠 **Mentis** — a self-development / mental productivity startup
 - 🤟 **QazSign** — AI-powered Kazakh Sign Language recognition project
 - 🎓 **UniZhol** — platform helping students navigate university admissions in Kazakhstan
-- 📰 **News Digest** — personalized news recommendation web app
 - ♿ **InclusiTech** — AI-powered self-study platform for students with learning differences
 
 ---
@@ -65,13 +64,11 @@ I am focused on projects at the intersection of **AI, education, accessibility, 
 
 ---
 
-### 📊 GitHub stats
+### 📊 GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=loxinplay&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loxinplay&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://streak-stats.demolab.com?user=loxinplay&theme=tokyonight&hide_border=true" height="160" />
 </p>
-
 ---
 
 ### 🎯 Current focus
