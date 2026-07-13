@@ -86,26 +86,25 @@
 
 ## GitHub snapshot
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=loxinplay&theme=github_dark"
-    alt="Nurdaulet's GitHub activity"
-    width="100%"
-  />
-</p>
 
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=loxinplay&theme=github_dark"
-    alt="Nurdaulet's GitHub statistics"
-    height="165"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=loxinplay&theme=github_dark"
-    alt="Repositories by language"
-    height="165"
-  />
+  <a href="https://github.com/loxinplay">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=loxinplay&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400"
+      alt="Nurdaulet's GitHub statistics"
+      height="170"
+    />
+  </a>
+
+  <a href="https://github.com/loxinplay?tab=repositories">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=loxinplay&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=86400"
+      alt="Most used languages"
+      height="170"
+    />
+  </a>
 </p>
+
 
 ## More projects
 
