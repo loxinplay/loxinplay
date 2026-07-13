@@ -1,89 +1,112 @@
-<h1 align="center">Hi, I'm Nurdaulet 👋</h1>
+<p align="center">
+  <img src="./assets/header.svg" alt="Nurdaulet — AI, accessibility, EdTech and product engineering" width="100%" />
+</p>
 
 <p align="center">
-  AI & EdTech builder from Kazakhstan 🇰🇿  
-  <br/>
-  Building tools that make learning, accessibility, and self-development more practical.
+  <a href="https://github.com/loxinplay">
+    <img src="https://komarev.com/ghpvc/?username=loxinplay&label=PROFILE+VIEWS&color=7c5cfc&style=flat-square" alt="Profile views" />
+  </a>
+  <img src="https://img.shields.io/badge/BASED_IN-KAZAKHSTAN-111827?style=flat-square&labelColor=111827&color=2DD4BF" alt="Based in Kazakhstan" />
+  <img src="https://img.shields.io/badge/FOCUS-AI_PRODUCTS-111827?style=flat-square&labelColor=111827&color=38BDF8" alt="Focus: AI products" />
 </p>
 
----
-
-### 🚀 What I build
-
-I am focused on projects at the intersection of **AI, education, accessibility, and product design**.
-
-- 🧠 **Mentis** — a self-development / mental productivity startup
-- 🤟 **QazSign** — AI-powered Kazakh Sign Language recognition project
-- 🎓 **UniZhol** — platform helping students navigate university admissions in Kazakhstan
-- ♿ **InclusiTech** — AI-powered self-study platform for students with learning differences
-
----
-
-### 🛠️ Tech stack
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
-  <img src="https://img.shields.io/badge/Supabase-111827?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
-  <img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+<p align="center">
+  I build practical products where <b>artificial intelligence</b>, <b>accessibility</b>, and <b>education</b> meet.
+  <br />
+  My focus is turning technically ambitious ideas into clear, usable prototypes.
 </p>
 
----
+<br />
 
-### 📌 Featured projects
+## Selected work
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>🧠 Mentis</h3>
-      <p>A startup project focused on helping people improve self-awareness, productivity, and personal growth.</p>
-      <p><b>Stack:</b> TypeScript, React, product design</p>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/loxinplay/aimaq">Aimaq</a></h3>
+      <p>
+        AI-powered location intelligence for commercial real estate in Almaty.
+        It ranks listings using transport, competition, district context, and business requirements.
+      </p>
+      <p>
+        <code>Next.js</code> <code>FastAPI</code> <code>LangGraph</code>
+        <code>Supabase</code> <code>Redis</code>
+      </p>
     </td>
-    <td width="50%">
-      <h3>🤟 QazSign</h3>
-      <p>AI-powered Kazakh Sign Language recognition system using computer vision and deep learning.</p>
-      <p><b>Stack:</b> Python, TensorFlow, MediaPipe, LSTM</p>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/loxinplay/QazSign-2026">QazSign</a></h3>
+      <p>
+        Real-time Kazakh Sign Language recognition using computer vision and deep learning,
+        designed to reduce communication barriers.
+      </p>
+      <p>
+        <code>Python</code> <code>MediaPipe</code> <code>TensorFlow</code>
+        <code>LSTM</code> <code>FastAPI</code>
+      </p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>🎓 UniZhol</h3>
-      <p>A platform that helps students understand and prepare for university admissions in Kazakhstan.</p>
-      <p><b>Stack:</b> TypeScript, web development</p>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/loxinplay/InclusiTech">InclusiTech</a></h3>
+      <p>
+        An AI-powered self-study platform that generates accessible video courses
+        for learners with needs such as ADHD or dyslexia.
+      </p>
+      <p>
+        <code>AI</code> <code>EdTech</code> <code>Accessibility</code>
+        <code>Product Design</code>
+      </p>
     </td>
-    <td width="50%">
-      <h3>♿ InclusiTech</h3>
-      <p>AI-powered self-study platform designed with accessibility and learning differences in mind.</p>
-      <p><b>Stack:</b> Dart, AI, education technology</p>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/loxinplay/Mentis">Mentis</a></h3>
+      <p>
+        A product centered on self-awareness, personal growth, and structured productivity,
+        built as a polished web experience.
+      </p>
+      <p>
+        <code>Next.js</code> <code>TypeScript</code> <code>React</code>
+        <code>Vercel</code>
+      </p>
     </td>
   </tr>
 </table>
 
----
-
-### 📊 GitHub activity
+## Toolkit
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=loxinplay&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://skillicons.dev/icons?i=python,ts,nextjs,react,fastapi,tensorflow,pytorch,supabase,postgres,redis,docker,figma,git&perline=13" alt="Technology stack" />
 </p>
----
 
-### 🎯 Current focus
+## Current direction
 
-- Building and launching **Mentis**
-- Improving AI projects in education and accessibility
-- Learning full-stack development through real products
-- Turning student projects into usable MVPs
+- Building AI systems that solve concrete, local problems.
+- Designing more accessible learning and communication tools.
+- Combining applied machine learning with strong product interfaces.
+- Shipping complete MVPs instead of isolated technical demos.
 
----
+## GitHub snapshot
 
-### 📫 Connect
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=loxinplay&show_icons=true&hide_border=true&rank_icon=github&title_color=7C5CFC&icon_color=2DD4BF&text_color=AEBBDA&bg_color=00000000" alt="Nurdaulet's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loxinplay&layout=compact&hide_border=true&title_color=38BDF8&text_color=AEBBDA&bg_color=00000000" alt="Most used languages" />
+</p>
+
+## More projects
 
 <p>
+  <a href="https://github.com/loxinplay/UniZhol"><b>UniZhol</b></a>
+  — a platform helping students navigate university admissions in Kazakhstan.
+  <br />
+  <a href="https://github.com/loxinplay/news-digest-nfactorial"><b>News Digest</b></a>
+  — an AI-oriented news aggregation and summarization project.
+</p>
+
+<br />
+
+<p align="center">
+  <b>Building technology that is useful before it is impressive.</b>
+  <br /><br />
   <a href="https://github.com/loxinplay">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" />
   </a>
 </p>

@@ -1,0 +1,59 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="background" x1="70" y1="25" x2="1110" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#070B18"/>
+      <stop offset="0.52" stop-color="#101A3A"/>
+      <stop offset="1" stop-color="#092C38"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="210" y1="100" x2="900" y2="255" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7C5CFC"/>
+      <stop offset="0.52" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#2DD4BF"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1015 70) rotate(140) scale(320 260)">
+      <stop stop-color="#2DD4BF" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(165 330) rotate(-40) scale(420 240)">
+      <stop stop-color="#7C5CFC" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#7C5CFC" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" stroke="#FFFFFF" stroke-opacity="0.045"/>
+    </pattern>
+    <filter id="blur" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="30" fill="url(#background)"/>
+  <rect width="1200" height="360" rx="30" fill="url(#grid)"/>
+  <rect width="1200" height="360" rx="30" fill="url(#glowA)"/>
+  <rect width="1200" height="360" rx="30" fill="url(#glowB)"/>
+
+  <g opacity="0.95">
+    <circle cx="1020" cy="180" r="106" stroke="url(#accent)" stroke-width="2" stroke-opacity="0.48"/>
+    <circle cx="1020" cy="180" r="72" stroke="#38BDF8" stroke-width="1.5" stroke-opacity="0.38" stroke-dasharray="8 10"/>
+    <circle cx="1020" cy="180" r="38" fill="#0D1732" stroke="#2DD4BF" stroke-width="2"/>
+    <circle cx="1020" cy="180" r="10" fill="#2DD4BF"/>
+    <circle cx="1020" cy="74" r="7" fill="#7C5CFC"/>
+    <circle cx="1112" cy="233" r="7" fill="#38BDF8"/>
+    <circle cx="928" cy="233" r="7" fill="#2DD4BF"/>
+    <path d="M1020 74L1112 233L928 233L1020 74Z" stroke="#FFFFFF" stroke-opacity="0.16"/>
+  </g>
+
+  <g filter="url(#blur)" opacity="0.7">
+    <circle cx="1020" cy="180" r="24" fill="#2DD4BF"/>
+  </g>
+
+  <rect x="78" y="72" width="168" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.075" stroke="#FFFFFF" stroke-opacity="0.13"/>
+  <circle cx="98" cy="89" r="5" fill="#2DD4BF"/>
+  <text x="112" y="94" fill="#C8D3F5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="1.1">LOXINPLAY / DEV</text>
+
+  <text x="76" y="184" fill="#F7FAFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="72" font-weight="800" letter-spacing="-2">NURDAULET</text>
+  <rect x="78" y="202" width="600" height="4" rx="2" fill="url(#accent)"/>
+  <text x="78" y="246" fill="#AEBBDA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="500" letter-spacing="0.3">AI · ACCESSIBILITY · EDTECH · PRODUCT ENGINEERING</text>
+  <text x="78" y="294" fill="#7081AA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="500">Building useful technology from Kazakhstan.</text>
+
+  <rect x="0.75" y="0.75" width="1198.5" height="358.5" rx="29.25" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="1.5"/>
+</svg>
